@@ -1,5 +1,5 @@
 # lfw
-a log file writer write in go
+a log file writer written in go
 
 ### Features
 * Rotate by file size
